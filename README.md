@@ -1,2 +1,5 @@
 # hello-world
-Assignment 1 CSE 360 Ang
+CSE 360 Hello World git demo
+
+Name: Gabriel Valenzuela 
+Email: jgvalen2@asu.edu
